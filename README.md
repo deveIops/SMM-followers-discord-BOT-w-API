@@ -77,3 +77,6 @@ async def gw(ctx, amount: int, target: str):
 
 
 Le reste des commandes, le nom et leur fonction c'est à vous de les configurer, il faut un minimum de compréhension pour utiliser ce code.
+
+![Exemple](https://github.com/deveIops/SMM-followers-discord-BOT-w-API/blob/main/exemple.png)
+
