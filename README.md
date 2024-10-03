@@ -3,7 +3,7 @@
 📚 D͟e͟s͟c͟r͟i͟p͟t͟i͟o͟n͟
 
 
-Le Bot Discord SMM Follows est un outil conçu pour passer des commandes de followers, likes, et vues sur TikTok, Instagram, et Twitch via l'API SMMFollows. Ce bot permet aux administrateurs de gérer facilement les commandes et de suivre en temps réel leur progression, avec des notifications automatiques une fois les commandes terminées.
+Le Bot Discord SMM Follows est un outil conçu pour passer des commandes de followers, likes, et vues sur TikTok, Instagram, Twitch ou tout autres services proposé par smmfollows, via leur API. Ce bot permet aux administrateurs de gérer facilement les commandes et de suivre en temps réel leur progression, avec des notifications automatiques une fois les commandes terminées.
 
 •⭐ F͟o͟n͟c͟t͟i͟o͟n͟n͟a͟l͟i͟t͟és͟
 
